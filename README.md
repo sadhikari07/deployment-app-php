@@ -5,6 +5,9 @@
 - Sudip Adhikari
 - Timothy Bush
 
+## Deployed Link:
+- http://phpdeploymentapp-env.mqput8vcxd.us-east-1.elasticbeanstalk.com
+
 ## Steps on cretaing deployment environment:
 
 ### Elastic beanstalk
