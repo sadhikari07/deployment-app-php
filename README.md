@@ -1,6 +1,6 @@
 # Simple PHP Application
 
-##Team members:
+## Team members:
 - Xia Liu
 - Sudip Adhikari
 - Timothy Bush
