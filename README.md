@@ -33,8 +33,8 @@
 
 - To see auto-update, edit the index.php file and merge the commit to master. You should see the updates on your deployed website.
 
-![Screen Screen](https://raw.githubusercontent.com/sadhikari07/deployment-app-php/master/assets/Screen15.png)
-![Screen Screen](https://raw.githubusercontent.com/sadhikari07/deployment-app-php/master/assets/Screen16.png)
+![Screen Screen](https://raw.githubusercontent.com/sadhikari07/deployment-app-php/master/assets/screen15.png)
+![Screen Screen](https://raw.githubusercontent.com/sadhikari07/deployment-app-php/master/assets/screen16.png)
 
 
 -Additional Screens located in assets. 
