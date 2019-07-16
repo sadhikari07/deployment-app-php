@@ -2,7 +2,7 @@
 
   include('./talker.php');
 
-  $talker = new Talker('Hi, there');
+  $talker = new Talker('Hello, there');
 
   echo $talker->message;
 
