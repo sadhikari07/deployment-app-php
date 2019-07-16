@@ -36,6 +36,8 @@
 
 - To see auto-update, edit the index.php file and merge the commit to master. You should see the updates on your deployed website.
 
+## Screenshots of pipeline updating after change in the master of the repo and once update is complete: 
+
 ![Screen Screen](https://raw.githubusercontent.com/sadhikari07/deployment-app-php/master/assets/screen15.png)
 ![Screen Screen](https://raw.githubusercontent.com/sadhikari07/deployment-app-php/master/assets/screen16.png)
 
@@ -50,3 +52,7 @@
 - Open a terminal and change to the folder containing this application
 - Run the tests
   - `./vendor/bin/phpunit --bootstrap vendor/autoload.php index.test.php`
+  
+  
+ ## Reference: 
+ https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/
